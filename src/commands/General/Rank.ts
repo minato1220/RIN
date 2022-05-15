@@ -102,7 +102,7 @@ let pfp: string
         } catch (err) {
             M.reply(`Profile Picture not Accessible of ${username}`)
             pfp =
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhshgkXh025auPy0RDEeY9j3B14jlZMqgaw&usqp=CAU'
+                'https://images6.fanpop.com/image/photos/43700000/Minato-Namikaze-Fanarts-minato-namikaze-43786449-515-646.jpg'
         }
 let discrim = `${level}`
 let image = await yuricanvas.rank({ 
